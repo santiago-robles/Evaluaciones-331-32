@@ -1,0 +1,14 @@
+/Users/santiagorobles/Desktop/Prueba/E2/bin/Debug/net10.0/E2
+/Users/santiagorobles/Desktop/Prueba/E2/bin/Debug/net10.0/E2.deps.json
+/Users/santiagorobles/Desktop/Prueba/E2/bin/Debug/net10.0/E2.runtimeconfig.json
+/Users/santiagorobles/Desktop/Prueba/E2/bin/Debug/net10.0/E2.dll
+/Users/santiagorobles/Desktop/Prueba/E2/bin/Debug/net10.0/E2.pdb
+/Users/santiagorobles/Desktop/Prueba/E2/obj/Debug/net10.0/E2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiagorobles/Desktop/Prueba/E2/obj/Debug/net10.0/E2.AssemblyInfoInputs.cache
+/Users/santiagorobles/Desktop/Prueba/E2/obj/Debug/net10.0/E2.AssemblyInfo.cs
+/Users/santiagorobles/Desktop/Prueba/E2/obj/Debug/net10.0/E2.csproj.CoreCompileInputs.cache
+/Users/santiagorobles/Desktop/Prueba/E2/obj/Debug/net10.0/E2.dll
+/Users/santiagorobles/Desktop/Prueba/E2/obj/Debug/net10.0/refint/E2.dll
+/Users/santiagorobles/Desktop/Prueba/E2/obj/Debug/net10.0/E2.pdb
+/Users/santiagorobles/Desktop/Prueba/E2/obj/Debug/net10.0/E2.genruntimeconfig.cache
+/Users/santiagorobles/Desktop/Prueba/E2/obj/Debug/net10.0/ref/E2.dll
